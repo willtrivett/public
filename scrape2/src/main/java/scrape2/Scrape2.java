@@ -79,7 +79,7 @@ public class Scrape2 {
             System.out.println( "\t - " + items.get(j).getText() ) ;
         }
         driver.close();
-        driver.quit();      
+        //driver.quit();      
 
         //wd.close();
         //wd.quit();
